@@ -15,7 +15,7 @@ into clear, actionable outfit suggestions.
 - HCI-focused design and decision support
 
 ## Live Demo
-https://fitcast.streamlit.app
+https://bellebondy-fitcast.streamlit.app
 
 ## Documentation
 A detailed explanation of the design decisions, usability goals, and HCI principles
